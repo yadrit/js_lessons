@@ -29,7 +29,7 @@
 
 // console.log(incr++);
 // console.log(decr--); 
-// let isChecked = true,
-//     isClose = true;
+let isChecked = true,
+    isClose = true;
 
-// console.log(isChecked && !isClose);
+console.log(isChecked && !isClose);
