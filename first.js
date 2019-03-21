@@ -30,7 +30,56 @@
 // console.log(incr++);
 // console.log(decr--); 
 
-let isChecked = true,
-    isClose = true;
+// let isChecked = true,
+//     isClose = true;
 
-console.log(isChecked && !isClose);
+// console.log(isChecked && !isClose);
+
+// let num = 50;
+
+// if(num < 49) {
+//     console.log("неВерно"); 
+// } else if (num > 100) {
+//     console.log("Снова херня");
+// } else {
+//     console.log("пусть так")
+// }
+
+
+// //let num = 50;
+// (num == 50) ? console.log("Verno") : console.log("Vran'yo!");
+
+// switch (num) {
+//     case num < 49:
+//         console.log("Govnokod malo");
+//         break;
+//     case num > 100:
+//         console.log("Govnokod mnogo");
+//         break;
+//     case num > 89:
+//         console.log("Govnokod snova mnogo");
+//         break;
+//     case 50:
+//         console.log("Vernovato");
+//         break;   
+// }
+
+
+// let cnum = 50;
+// // while (cnum < 55) {
+// //     console.log(cnum);
+// //     cnum++;
+// // }
+// // do {
+// //     console.log(cnum);
+// //     cnum++;
+// // }
+// // while(cnum < 55);
+// for(let i = 1; i < 8; i++) {
+//     if(i == 6) {
+//         continue;
+//     }
+//     console.log(i);
+// }
+
+let x = 5; alert( x++ );
